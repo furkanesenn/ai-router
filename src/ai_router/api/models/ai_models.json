@@ -1,0 +1,15 @@
+{
+  "ai_models": [
+    {
+      "name": "TestModel",
+      "description": "A test model for demonstration purposes.",
+      "version": "1.0",
+      "endpoint": "http://localhost:8000/testmodel",
+      "token": "testmodel-token",
+      "parameters": {
+        "param1": "value1",
+        "param2": "value2"
+      }
+    }
+  ]
+}
